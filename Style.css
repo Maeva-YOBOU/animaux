@@ -1,0 +1,23 @@
+body {
+  background: #c0ffd8;
+  color: #4b6fd3;
+  text-align: center
+}
+
+div {
+  text-align:center;
+  color:gray;
+  height: auto;
+  width:auto;
+  padding: 10px;
+
+}
+
+img {
+	width: 600px;
+	height: auto;
+	padding:20px;
+
+
+
+}
